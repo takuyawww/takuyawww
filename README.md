@@ -5,3 +5,4 @@
 * [Microsoft Teams連携機能を実装する](https://tech.stmn.co.jp/entry/2020/09/23/162142)
 
 ## Private Blog
+* [zono tech](https://zonotech.vercel.app/)
