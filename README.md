@@ -1,4 +1,5 @@
 ## Tech Blog
+* [価値のあるプロダクトをより早くエンドユーザーに届けるために挑戦していきたい。](https://www.wantedly.com/companies/stmn_inc/post_articles/395648)
 * [QuickSightのSPICEデータ使用量をLambdaで監視している話](https://tech.stmn.co.jp/entry/2022/08/08/090850)
 * [QuickSight SPICEデータのLambda関数を用いた自動更新処理](https://tech.stmn.co.jp/entry/2022/08/05/091212)
 * [名前空間を用いたQuickSight上でのマルチテナントの実現](https://tech.stmn.co.jp/entry/2022/04/18/135545)
