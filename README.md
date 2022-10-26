@@ -7,5 +7,8 @@
 * [preload、eager_load、includesの挙動を理解して使い分ける](https://tech.stmn.co.jp/entry/2020/11/30/145159)
 * [Microsoft Teams連携機能を実装する](https://tech.stmn.co.jp/entry/2020/09/23/162142)
 
+## SpeakerDeck
+* [Amazon QuickSightで実現する顧客別にカスタマイズされた分析ダッシュボードの提供](https://speakerdeck.com/takuyawww/saas-on-aws-day-2022-amazon-quicksightdeshi-xian-surugu-ke-bie-nikasutamaizusaretafen-xi-datusiyubodonoti-gong)
+
 ## Private Blog
 * [zono tech](https://zonotech.vercel.app/)
