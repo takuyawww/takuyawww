@@ -1,4 +1,5 @@
 ## Tech Blog
+* [大規模スクラム LeSS の各スクラムチームに「チームPO制」を導入してみた](https://tech.stmn.co.jp/entry/2023/01/06/153622)
 * [価値のあるプロダクトをより早くエンドユーザーに届けるために挑戦していきたい。](https://www.wantedly.com/companies/stmn_inc/post_articles/395648)
 * [QuickSightのSPICEデータ使用量をLambdaで監視している話](https://tech.stmn.co.jp/entry/2022/08/08/090850)
 * [QuickSight SPICEデータのLambda関数を用いた自動更新処理](https://tech.stmn.co.jp/entry/2022/08/05/091212)
