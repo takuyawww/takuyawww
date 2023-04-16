@@ -13,3 +13,4 @@
 
 ## Private Blog
 * [zono tech](https://zonotech.vercel.app/)
+* [zenn scrap](https://zenn.dev/takuyawww/scraps)
